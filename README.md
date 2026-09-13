@@ -50,6 +50,10 @@ The dashboard provides several views of commercial performance:
 
 ![Dashboard Overview](./screenshots/dashboard-overview.png)
 
+## Project File
+
+[Download the Excel dashboard](./sales-profitability-dashboard.xlsx)
+
 ## Key Findings
 
 - Technology generates the highest total sales among the three categories.
